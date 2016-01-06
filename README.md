@@ -1,4 +1,4 @@
-# socialPlugin ![](https://api.travis-ci.org/BuildFire/socialPlugin.svg)
+# Social Plugin ![](https://api.travis-ci.org/BuildFire/socialPlugin.svg)
 Social wall
 
 ##How to run and test
